@@ -23,9 +23,9 @@
 
 ## 🚀 Projects
 
-### [🎯 [Sales_Project]](https://github.com/AhmedElrayah1/Project--Sales)  
-Excel & Power bi project
-**Tools:** [Excel , power bi]  
+### [🎯 [healthcare  Project]](https://github.com/AhmedElrayah1/Healthcare_Project)  
+SQl Database
+**Tools:** [SQL Server]  
 
 ### [👩‍💻 [Project Name]]([Project URL])  
 [Short description of the project]  
