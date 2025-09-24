@@ -18,7 +18,7 @@
 - *Languages*: Python, SQL, DAX  
 - *Data Analysis & Visualization*: Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn  
 - *Databases*:SQL server 
-- *Tools*: Excel, Power BI, Jupyter Notebook, Seaborn, Matplotlib, SQL Server, VS Code, GitHub
+- *Tools*: Excel, Power BI, Jupyter Notebook, Seaborn, Matplotlib, SQL Server, GitHub
 
 ---
 
