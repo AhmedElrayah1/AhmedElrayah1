@@ -38,7 +38,7 @@ Excel and poer bi
 Excel Project
 **Tools:** [Excel]  
 
-### [🧬 [Shop Sales Project]]https://github.com/AhmedElrayah1/Analysis-Shop-Sales])  
+### [🧬 [Shop Sales Project]https://github.com/AhmedElrayah1/Analysis-Shop-Sales])  
 Excel Project
 **Tools:** [Excel]  
 
