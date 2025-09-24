@@ -27,21 +27,20 @@
 SQl Database
 **Tools:** [SQL Server]  
 
-### [👩‍💻 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
 
-### [🍽️ [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### [👩‍💻 [Sales Project]](https://github.com/AhmedElrayah1/Project--Sales)  
+Excel and poer bi 
+**Tools:** [Excel,Power bi]  
 
-### [🏓 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+ 
 
-### [🧬 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### [🏓 [Financial Rebort]](https://github.com/AhmedElrayah1/Financial_Rebort)  
+Excel Project
+**Tools:** [Excel]  
+
+### [🧬 [Shop Sales Project]]https://github.com/AhmedElrayah1/Analysis-Shop-Sales])  
+Excel Project
+**Tools:** [Excel]  
 
 ---
 
