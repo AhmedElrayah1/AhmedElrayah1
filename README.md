@@ -5,13 +5,14 @@
 
 ---
 ## 🛠 Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" alt="Excel" />
+</div>
 </div>
 
 - *Languages*: Python, SQL, DAX  
@@ -23,7 +24,7 @@
 
 ## 🚀 Projects
 
-### [🎯 [healthcare  Project]](https://github.com/AhmedElrayah1/Healthcare_Project)  
+### [👩‍💻 [healthcare  Project]](https://github.com/AhmedElrayah1/Healthcare_Project)  
 SQl Database
 **Tools:** [SQL Server]  
 
@@ -34,13 +35,18 @@ Excel and poer bi
 
  
 
-### [🏓 [Financial Rebort]](https://github.com/AhmedElrayah1/Financial_Rebort)  
+### [👩‍💻 [Financial Rebort]](https://github.com/AhmedElrayah1/Financial_Rebort)  
 Excel Project
 **Tools:** [Excel]  
 
-### [🧬 [Shop Sales Project]https://github.com/AhmedElrayah1/Analysis-Shop-Sales])  
+
+ 
+
+### [👩‍💻 [Shop Sales Project]](https://github.com/AhmedElrayah1/Analysis-Shop-Sales)  
 Excel Project
-**Tools:** [Excel]  
+**Tools:** [Excel]
+
+
 
 ---
 
