@@ -4,15 +4,22 @@
 
 ---
 
-## 🛠 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" alt="Excel" />
-</div>
+### 🛠 Tech Stack
 
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Azure_Stream_Analytics-005BA1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</div>
+</div>
 - *Languages*: Python, SQL  
 - *Data Engineering*: ETL / ELT Pipelines, Data Modeling, Data Warehousing  
 - *Azure Services*: Azure Data Factory, Azure Data Lake Gen2, Azure Synapse Analytics  
